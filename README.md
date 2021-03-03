@@ -1,7 +1,7 @@
 # primebeef
 A simple ordering website. 🍖 <br>
 Prime Beef is a simple private prototype ordering website, using React, Router, Redux, Styled Components. It consumes a Node API and MongoDB database. <br>
-You can see it [here](https://primebeefsantos-site.herokuapp.com/).
+You can see it [here](https://www.primebeefsantos.com.br/).
 
 ---
 
